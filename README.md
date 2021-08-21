@@ -17,7 +17,7 @@
   </a>
 - 🎓 &nbsp; Symbiosis Pune 2020 Alumni(MCA)
       
- - 💼&nbsp;&nbsp;&nbsp;Ex Full Stack intern at Aaryak Solutions (https://aaryaksolutions.com/)
+ - 💼&nbsp;&nbsp;&nbsp;Ex Full Stack intern at <a href="https://aaryaksolutions.com/">Aaryak Solutions.</a>
 
                           
 
