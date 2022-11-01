@@ -1,12 +1,12 @@
 <h1 align="center"><img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> Hello, I am Veena Joglekar </h1>
 
-<h3 align="center"> &nbsp; &nbsp;&nbsp; &nbsp; <b>🔭 Upcoming full stack Developer.Also interested in Data Science </b> </h3>
+<h3 align="center"> &nbsp; &nbsp;&nbsp; &nbsp; <b> Software Engineer At IncubXperts TechnoConsulting Pvt Ltd </b> </h3>
 
 
 
 - 👀 I’m interested in Web Development,web designing.
 
-- 🌱 I’m currently learning Angular, React, ServiceNow
+- 🌱 I’m currently learning Angular, React, Dot-net, Docker
 
 - 📫 Connect With me
     <a href="https://www.linkedin.com/in/veena-joglekar-97a393122/">
